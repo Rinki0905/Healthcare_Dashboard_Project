@@ -23,34 +23,34 @@ This project presents a healthcare analysis dashboard created in **Power BI** us
 7. How much is the average billing amount per patient, and how much of it is covered by insurance?
 
 ## Key Insights
-  # 1.High Preference for Private Beds
+  ## 1.High Preference for Private Beds
 
     - Private beds are the most utilized, accounting for over 4,000 occupancies, nearly double that of general and ICU beds.
 
     - This indicates a higher preference or demand for private care, possibly reflecting patient income levels or insurance coverage patterns.
 
-  # 2.Top Diagnosed Conditions
+  ## 2.Top Diagnosed Conditions
     - Viral Infection and Flu are the most common diagnoses, indicating seasonal or contagious disease trends.
 
     -Less frequent diagnoses like Fracture and Pneumonia may require specialized treatment but occur less often.
 
- # 3.Doctor Feedback Volume is Uniform
+ ## 3.Doctor Feedback Volume is Uniform
    -All listed doctors received similar feedback volumes (~1.02K each), suggesting a standardized or evenly distributed patient feedback mechanism.
    
- # 4.Billing vs Health Insurance Amount
+ ## 4.Billing vs Health Insurance Amount
    -Across all diagnosis types, billing amounts consistently exceed health insurance payouts, revealing a potential gap in insurance coverage.
    -This insight can help the hospital negotiate better insurance policies or offer financial assistance programs.
 
- # 5.Billing Peaks for Viral & Flu Cases
+ ## 5.Billing Peaks for Viral & Flu Cases
 
    -Viral infections lead to the highest billing amounts, followed closely by Flu, highlighting where most hospital revenue originates.
 
    -These cases could also reflect longer stays or more frequent testing and treatment procedures.
 
- # 6.Low ICU Utilization
+ ## 6.Low ICU Utilization
     -ICU bed usage is significantly lower, suggesting either fewer critical cases or efficient patient triaging and care.
 
- # 7.Effective Follow-Up Scheduling
+ ## 7.Effective Follow-Up Scheduling
 
     -The gap between discharge and follow-up (approx. 1 month) indicates a well-structured post-care program, promoting better patient recovery monitoring.
  # Consistent Use of Date Filters
